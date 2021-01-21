@@ -1,0 +1,15 @@
+[ERROR] 2019-05-14 14:48:35.639 [main] DataBaseHandler - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[ERROR] 2019-05-14 14:48:36.665 [main] DataBaseHandler - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[ERROR] 2019-05-14 14:49:46.536 [main] DataBaseHandler - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[ERROR] 2019-05-14 14:49:47.546 [main] DataBaseHandler - Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[INFO ] 2019-05-14 15:06:14.626 [main] DataBaseHandler - Testing results=true
+[INFO ] 2019-05-14 15:09:11.148 [main] DataBaseHandler - Testing results=true
+[INFO ] 2019-05-14 15:10:38.985 [main] DataBaseHandler - Testing results=true
